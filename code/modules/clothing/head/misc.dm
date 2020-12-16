@@ -116,6 +116,11 @@
 	desc = "Gentleman, elite aboard!"
 	body_parts_covered = 0
 	icon = 'icons/clothing/head/bowler.dmi'
+/obj/item/clothing/head/tophat
+	name = "top-hat"
+	desc = "An old fashioned tophat."
+	body_parts_covered = 0
+	icon = 'icons/clothing/head/tophat.dmi'
 
 //stylish bs12 hats
 
